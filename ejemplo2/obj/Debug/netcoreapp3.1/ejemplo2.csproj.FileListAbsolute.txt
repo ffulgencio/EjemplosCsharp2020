@@ -1,0 +1,13 @@
+/home/francis/dotnetsolutions/ejemplos/ejemplo2/bin/Debug/netcoreapp3.1/ejemplo2
+/home/francis/dotnetsolutions/ejemplos/ejemplo2/bin/Debug/netcoreapp3.1/ejemplo2.deps.json
+/home/francis/dotnetsolutions/ejemplos/ejemplo2/bin/Debug/netcoreapp3.1/ejemplo2.runtimeconfig.json
+/home/francis/dotnetsolutions/ejemplos/ejemplo2/bin/Debug/netcoreapp3.1/ejemplo2.runtimeconfig.dev.json
+/home/francis/dotnetsolutions/ejemplos/ejemplo2/bin/Debug/netcoreapp3.1/ejemplo2.dll
+/home/francis/dotnetsolutions/ejemplos/ejemplo2/bin/Debug/netcoreapp3.1/ejemplo2.pdb
+/home/francis/dotnetsolutions/ejemplos/ejemplo2/obj/Debug/netcoreapp3.1/ejemplo2.csprojAssemblyReference.cache
+/home/francis/dotnetsolutions/ejemplos/ejemplo2/obj/Debug/netcoreapp3.1/ejemplo2.AssemblyInfoInputs.cache
+/home/francis/dotnetsolutions/ejemplos/ejemplo2/obj/Debug/netcoreapp3.1/ejemplo2.AssemblyInfo.cs
+/home/francis/dotnetsolutions/ejemplos/ejemplo2/obj/Debug/netcoreapp3.1/ejemplo2.csproj.CoreCompileInputs.cache
+/home/francis/dotnetsolutions/ejemplos/ejemplo2/obj/Debug/netcoreapp3.1/ejemplo2.dll
+/home/francis/dotnetsolutions/ejemplos/ejemplo2/obj/Debug/netcoreapp3.1/ejemplo2.pdb
+/home/francis/dotnetsolutions/ejemplos/ejemplo2/obj/Debug/netcoreapp3.1/ejemplo2.genruntimeconfig.cache
